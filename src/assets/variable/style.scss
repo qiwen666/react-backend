@@ -1,0 +1,17 @@
+@import './variable.scss';
+@import './antd.scss';
+
+// 使用.btn-dribble{ color: map-get($social-colors,facebook); } 
+// $colors: (
+//   white: #fff
+// )
+
+
+// @each $colorKey, $color in list {
+//   .text-#{$colorKey} {
+//     color: $color
+//   }
+//   .bg-#{$colorKey} {
+//     background-color: $color;
+//   }
+// }

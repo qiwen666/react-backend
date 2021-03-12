@@ -1,0 +1,25 @@
+.ant-layout-header {
+  // height: 180px;
+  height: 80px;
+  padding: 0;
+  background-color: $bgColor;
+}
+.ant-layout-content {
+  margin: 20px;
+  background-color: $colorTheme;
+  .category-container {
+    .category-top {
+    }
+  }
+  // 分页样式
+  .ant-pagination {
+    text-align: right;
+    margin-top: 20px;
+  }
+
+}
+
+// 按钮样式
+.ant-btn-primary, .ant-btn-primary:hover, .ant-btn-primary:focus {
+  background-color: #0aa679;
+}

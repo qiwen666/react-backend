@@ -1,0 +1,14 @@
+.category-container {
+  .category-top {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #333;
+    > span {
+      margin-right: 30px;
+    }
+  }
+  .changeCategory {
+    color: $linkButton;
+  }
+}
